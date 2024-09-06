@@ -1,11 +1,3 @@
 {
-  "users": [
-    {
-      "id": "6e6d",
-      "name": "Assalom Islom",
-      "email": "ipardaboyevdev574@gmail.com",
-      "country": "Syrdarya",
-      "img": "blob:http://localhost:5173/724a5619-18a1-477b-948a-afc3863fb9e4"
-    }
-  ]
+  "users": []
 }
